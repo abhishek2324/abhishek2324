@@ -56,8 +56,8 @@ Let’s build something impactful together!
 
 ## 🔗 Let’s Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek-randhawa-23ar24)  
-📧 abhishekrandhawa2004@gmail.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek-randhawa-23ar24)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhishekrandhawa2004@gmail.com)
 
 ---
 
