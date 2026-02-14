@@ -1,4 +1,3 @@
-# RandhawaAbhishek24
 # 👋 Hey there, I'm Abhishek!
 
 🎓 B.E. CSE Student @ Chitkara University  
